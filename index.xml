@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Shibu</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on David Shibu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Task Approach</title>
+      <link>http://www.example.com/posts/rich-content/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/rich-content/</guid>
+      <description>This task was comparitevely easier when compared to other tasks. I installed hugo in my terminal created a new hugo file using hugo new site {file_name}. After that I cloned a template named &amp;ldquo;coder&amp;rdquo; as a submodule in themes folder. Submodule is used inorder to get furthur updates. After that I started configuring the configure.toml file according to my needs. The theme is imported and the synatx for special features are added.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>I am David Shibu currently a students at IIT Madras doing offcampus B.S in Data science and applications degree along with B.tech in Computer Science and Engineering from Amrita Vishwavidhyapeetham. I believe that I am a smart working student and can efficiently manage time and contribute to the groups and societies I am in. I am open to the world of knowledge, acquiring it throughout my lifetime, improving myself from day to day and to better in all aspects.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/contact/</guid>
+      <description>#Gmail: Davidshibu5@gmail.com
+#Discord: mrbeast4824</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.example.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/</guid>
+      <description>Musical Lightshow with Arduino  Link to heading      Arduino Based Missile Defence System  Link to heading      Mars Exploration Game With Godot  Link to heading     </description>
+    </item>
+    
+  </channel>
+</rss>
