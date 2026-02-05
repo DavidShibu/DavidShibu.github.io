@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Engineering on David Shibu</title>
+    <link>http://www.example.com/tags/software-engineering/</link>
+    <description>Recent content in Software Engineering on David Shibu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kochi Water Metro Management System</title>
+      <link>http://www.example.com/projects/kochi-water-metro/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/kochi-water-metro/</guid>
+      <description>Flask-based web application enabling unified access for passengers, employees, and administrators of the Kochi Water Metro system.</description>
+    </item>
+    
+  </channel>
+</rss>

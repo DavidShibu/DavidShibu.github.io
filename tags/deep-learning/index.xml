@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning on David Shibu</title>
+    <link>http://www.example.com/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on David Shibu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SafePaws: Deep Learning System for Stray Dog Behavior Monitoring</title>
+      <link>http://www.example.com/projects/safepaws/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/safepaws/</guid>
+      <description>A multi-stage AI surveillance framework using YOLOv8, ResNet, and LSTMs to detect, track, and predict stray dog behavior to prevent human-animal conflict.</description>
+    </item>
+    
+    <item>
+      <title>Real-Time Voice Scam Detector using BERT</title>
+      <link>http://www.example.com/projects/scamdetector/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/scamdetector/</guid>
+      <description>An AI-driven security tool that transcribes live calls and uses a fine-tuned BERT model to classify potential scams based on conversational context and intent.</description>
+    </item>
+    
+  </channel>
+</rss>

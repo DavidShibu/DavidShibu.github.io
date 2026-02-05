@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electronics on David Shibu</title>
+    <link>http://www.example.com/tags/electronics/</link>
+    <description>Recent content in Electronics on David Shibu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/tags/electronics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Affordable Hearing Aid Prototype</title>
+      <link>http://www.example.com/projects/affordable-hearing-aid/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/affordable-hearing-aid/</guid>
+      <description>Low-cost hearing aid prototype designed using mono-audio components to improve accessibility for the hearing-impaired.</description>
+    </item>
+    
+  </channel>
+</rss>

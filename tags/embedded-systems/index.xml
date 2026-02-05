@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Embedded Systems on David Shibu</title>
+    <link>http://www.example.com/tags/embedded-systems/</link>
+    <description>Recent content in Embedded Systems on David Shibu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/tags/embedded-systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smart City Using IoT</title>
+      <link>http://www.example.com/projects/smart-city-iot/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/smart-city-iot/</guid>
+      <description>IoT-based smart city simulation integrating autonomous traffic control, real-time navigation, and emergency response systems.</description>
+    </item>
+    
+  </channel>
+</rss>

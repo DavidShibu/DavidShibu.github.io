@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on David Shibu</title>
+    <link>http://www.example.com/tags/ai/</link>
+    <description>Recent content in AI on David Shibu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Krishi Sahay: Multilingual AI Voice Assistant for Farmers</title>
+      <link>http://www.example.com/projects/krishi-sahay/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/krishi-sahay/</guid>
+      <description>An AI-powered IVR system leveraging Twilio and LLMs to provide farmers with real-time market data, weather updates, and resource booking in their native languages.</description>
+    </item>
+    
+  </channel>
+</rss>

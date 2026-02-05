@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on David Shibu</title>
+    <link>http://www.example.com/tags/web/</link>
+    <description>Recent content in Web on David Shibu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kochi Water Metro Management System</title>
+      <link>http://www.example.com/projects/kochi-water-metro/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/kochi-water-metro/</guid>
+      <description>Flask-based web application enabling unified access for passengers, employees, and administrators of the Kochi Water Metro system.</description>
+    </item>
+    
+    <item>
+      <title>Fusion Reality Virtual Science Lab</title>
+      <link>http://www.example.com/projects/fusion-reality-lab/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/fusion-reality-lab/</guid>
+      <description>National hackathon–winning virtual lab platform integrated with OLABS for immersive science education.</description>
+    </item>
+    
+  </channel>
+</rss>
