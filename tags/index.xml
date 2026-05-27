@@ -2,170 +2,170 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on David Shibu</title>
-    <link>http://www.example.com/tags/</link>
+    <link>http://davidshibu.github.io/tags/</link>
     <description>Recent content in Tags on David Shibu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://davidshibu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Software Engineering</title>
-      <link>http://www.example.com/tags/software-engineering/</link>
+      <link>http://davidshibu.github.io/tags/software-engineering/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/software-engineering/</guid>
+      <guid>http://davidshibu.github.io/tags/software-engineering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web</title>
-      <link>http://www.example.com/tags/web/</link>
+      <link>http://davidshibu.github.io/tags/web/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/web/</guid>
+      <guid>http://davidshibu.github.io/tags/web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer Vision</title>
-      <link>http://www.example.com/tags/computer-vision/</link>
+      <link>http://davidshibu.github.io/tags/computer-vision/</link>
       <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/computer-vision/</guid>
+      <guid>http://davidshibu.github.io/tags/computer-vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>http://www.example.com/tags/deep-learning/</link>
+      <link>http://davidshibu.github.io/tags/deep-learning/</link>
       <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/deep-learning/</guid>
+      <guid>http://davidshibu.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>http://www.example.com/tags/research/</link>
+      <link>http://davidshibu.github.io/tags/research/</link>
       <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/research/</guid>
+      <guid>http://davidshibu.github.io/tags/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AgriTech</title>
-      <link>http://www.example.com/tags/agritech/</link>
+      <link>http://davidshibu.github.io/tags/agritech/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/agritech/</guid>
+      <guid>http://davidshibu.github.io/tags/agritech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI</title>
-      <link>http://www.example.com/tags/ai/</link>
+      <link>http://davidshibu.github.io/tags/ai/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/ai/</guid>
+      <guid>http://davidshibu.github.io/tags/ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IVR</title>
-      <link>http://www.example.com/tags/ivr/</link>
+      <link>http://davidshibu.github.io/tags/ivr/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/ivr/</guid>
+      <guid>http://davidshibu.github.io/tags/ivr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cybersecurity</title>
-      <link>http://www.example.com/tags/cybersecurity/</link>
+      <link>http://davidshibu.github.io/tags/cybersecurity/</link>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/cybersecurity/</guid>
+      <guid>http://davidshibu.github.io/tags/cybersecurity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NLP</title>
-      <link>http://www.example.com/tags/nlp/</link>
+      <link>http://davidshibu.github.io/tags/nlp/</link>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/nlp/</guid>
+      <guid>http://davidshibu.github.io/tags/nlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Education</title>
-      <link>http://www.example.com/tags/education/</link>
+      <link>http://davidshibu.github.io/tags/education/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/education/</guid>
+      <guid>http://davidshibu.github.io/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Embedded Systems</title>
-      <link>http://www.example.com/tags/embedded-systems/</link>
+      <link>http://davidshibu.github.io/tags/embedded-systems/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/embedded-systems/</guid>
+      <guid>http://davidshibu.github.io/tags/embedded-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IoT</title>
-      <link>http://www.example.com/tags/iot/</link>
+      <link>http://davidshibu.github.io/tags/iot/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/iot/</guid>
+      <guid>http://davidshibu.github.io/tags/iot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Electronics</title>
-      <link>http://www.example.com/tags/electronics/</link>
+      <link>http://davidshibu.github.io/tags/electronics/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/electronics/</guid>
+      <guid>http://davidshibu.github.io/tags/electronics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hardware</title>
-      <link>http://www.example.com/tags/hardware/</link>
+      <link>http://davidshibu.github.io/tags/hardware/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/hardware/</guid>
+      <guid>http://davidshibu.github.io/tags/hardware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Desktop App</title>
-      <link>http://www.example.com/tags/desktop-app/</link>
+      <link>http://davidshibu.github.io/tags/desktop-app/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/desktop-app/</guid>
+      <guid>http://davidshibu.github.io/tags/desktop-app/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OOPS</title>
-      <link>http://www.example.com/tags/oops/</link>
+      <link>http://davidshibu.github.io/tags/oops/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/oops/</guid>
+      <guid>http://davidshibu.github.io/tags/oops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AR/VR</title>
-      <link>http://www.example.com/tags/ar/vr/</link>
+      <link>http://davidshibu.github.io/tags/ar/vr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/ar/vr/</guid>
+      <guid>http://davidshibu.github.io/tags/ar/vr/</guid>
       <description></description>
     </item>
     

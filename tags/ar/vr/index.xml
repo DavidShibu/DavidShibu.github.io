@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AR/VR on David Shibu</title>
-    <link>http://www.example.com/tags/ar/vr/</link>
+    <link>http://davidshibu.github.io/tags/ar/vr/</link>
     <description>Recent content in AR/VR on David Shibu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.example.com/tags/ar/vr/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://davidshibu.github.io/tags/ar/vr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fusion Reality Virtual Science Lab</title>
-      <link>http://www.example.com/projects/fusion-reality-lab/</link>
+      <link>http://davidshibu.github.io/projects/fusion-reality-lab/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/fusion-reality-lab/</guid>
+      <guid>http://davidshibu.github.io/projects/fusion-reality-lab/</guid>
       <description>National hackathon–winning virtual lab platform integrated with OLABS for immersive science education.</description>
     </item>
     

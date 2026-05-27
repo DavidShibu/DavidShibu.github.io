@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on David Shibu</title>
-    <link>http://www.example.com/categories/</link>
+    <link>http://davidshibu.github.io/categories/</link>
     <description>Recent content in Categories on David Shibu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://davidshibu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

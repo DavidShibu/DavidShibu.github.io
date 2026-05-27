@@ -2,99 +2,99 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Shibu</title>
-    <link>http://www.example.com/</link>
+    <link>http://davidshibu.github.io/</link>
     <description>Recent content on David Shibu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://davidshibu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kochi Water Metro Management System</title>
-      <link>http://www.example.com/projects/kochi-water-metro/</link>
+      <link>http://davidshibu.github.io/projects/kochi-water-metro/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/kochi-water-metro/</guid>
+      <guid>http://davidshibu.github.io/projects/kochi-water-metro/</guid>
       <description>Flask-based web application enabling unified access for passengers, employees, and administrators of the Kochi Water Metro system.</description>
     </item>
     
     <item>
       <title>SafePaws: Deep Learning System for Stray Dog Behavior Monitoring</title>
-      <link>http://www.example.com/projects/safepaws/</link>
+      <link>http://davidshibu.github.io/projects/safepaws/</link>
       <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/safepaws/</guid>
+      <guid>http://davidshibu.github.io/projects/safepaws/</guid>
       <description>A multi-stage AI surveillance framework using YOLOv8, ResNet, and LSTMs to detect, track, and predict stray dog behavior to prevent human-animal conflict.</description>
     </item>
     
     <item>
       <title>Krishi Sahay: Multilingual AI Voice Assistant for Farmers</title>
-      <link>http://www.example.com/projects/krishi-sahay/</link>
+      <link>http://davidshibu.github.io/projects/krishi-sahay/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/krishi-sahay/</guid>
+      <guid>http://davidshibu.github.io/projects/krishi-sahay/</guid>
       <description>An AI-powered IVR system leveraging Twilio and LLMs to provide farmers with real-time market data, weather updates, and resource booking in their native languages.</description>
     </item>
     
     <item>
       <title>Real-Time Voice Scam Detector using BERT</title>
-      <link>http://www.example.com/projects/scamdetector/</link>
+      <link>http://davidshibu.github.io/projects/scamdetector/</link>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/scamdetector/</guid>
+      <guid>http://davidshibu.github.io/projects/scamdetector/</guid>
       <description>An AI-driven security tool that transcribes live calls and uses a fine-tuned BERT model to classify potential scams based on conversational context and intent.</description>
     </item>
     
     <item>
       <title>Fusion Reality Virtual Science Lab</title>
-      <link>http://www.example.com/projects/fusion-reality-lab/</link>
+      <link>http://davidshibu.github.io/projects/fusion-reality-lab/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/fusion-reality-lab/</guid>
+      <guid>http://davidshibu.github.io/projects/fusion-reality-lab/</guid>
       <description>National hackathon–winning virtual lab platform integrated with OLABS for immersive science education.</description>
     </item>
     
     <item>
       <title>Smart City Using IoT</title>
-      <link>http://www.example.com/projects/smart-city-iot/</link>
+      <link>http://davidshibu.github.io/projects/smart-city-iot/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/smart-city-iot/</guid>
+      <guid>http://davidshibu.github.io/projects/smart-city-iot/</guid>
       <description>IoT-based smart city simulation integrating autonomous traffic control, real-time navigation, and emergency response systems.</description>
     </item>
     
     <item>
       <title>Affordable Hearing Aid Prototype</title>
-      <link>http://www.example.com/projects/affordable-hearing-aid/</link>
+      <link>http://davidshibu.github.io/projects/affordable-hearing-aid/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/affordable-hearing-aid/</guid>
+      <guid>http://davidshibu.github.io/projects/affordable-hearing-aid/</guid>
       <description>Low-cost hearing aid prototype designed using mono-audio components to improve accessibility for the hearing-impaired.</description>
     </item>
     
     <item>
       <title>Health Tracker Application</title>
-      <link>http://www.example.com/projects/health-tracker/</link>
+      <link>http://davidshibu.github.io/projects/health-tracker/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/health-tracker/</guid>
+      <guid>http://davidshibu.github.io/projects/health-tracker/</guid>
       <description>Java-based desktop application for analyzing daily health metrics and providing actionable wellness insights.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://www.example.com/about/</link>
+      <link>http://davidshibu.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/about/</guid>
+      <guid>http://davidshibu.github.io/about/</guid>
       <description>I am David Shibu, a Computer Science undergraduate at Amrita Vishwa Vidyapeetham and a dual-degree student pursuing a B.S. in Data Science and Applications from IIT Madras (off-campus). I have a strong interest in building reliable, real-world software systems and exploring data-driven solutions to complex problems.
 I enjoy working at the intersection of programming, mathematics, and analytical thinking. My academic and project experience spans software engineering, web development, IoT systems, and applied machine learning.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://www.example.com/contact/</link>
+      <link>http://davidshibu.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/contact/</guid>
+      <guid>http://davidshibu.github.io/contact/</guid>
       <description>Mail me at : davidshibu5@gmail.com or fill the form below  Link to heading    Name
   Email
   Message
